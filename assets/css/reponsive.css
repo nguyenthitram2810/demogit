@@ -1,0 +1,335 @@
+@media (max-width: 575.98px) {
+    /*----------- Prefix -----------*/
+
+    .section__content {
+        font-size: 14px!important;
+    }
+
+
+
+    /* ----------- Home ----------- */
+
+    .poster__title {
+        text-align: center;
+        font-size: 21px!important;
+        top:-520px;
+    }
+    .poster__bg {
+        height: 1200px!important;
+    }
+
+
+
+    /*----------- Reviews -----------*/
+
+    .reviews__title {
+        font-size: 15px!important;
+    }
+    .section__box-content {
+        width: 100%!important;
+    }
+    .introduce__title {
+        font-size: 20px!important;
+    }
+
+
+
+    /*----------- Services -----------*/
+
+    .product__reponsive {
+        display: flex;
+        flex-direction: column-reverse!important;
+    }
+    .services__title {
+        font-size: 25px;
+        text-align: center;
+    }
+
+
+
+    /* --- Why Choose Cleanaa --- */
+
+    .cleanaa__description {
+        text-align: justify;
+    }
+    .cleanaa__title {
+        font-size: 20px!important;
+    }
+
+
+
+    /*----------- Apply -----------*/
+
+    .apply .introduce__title {
+        font-size: 16px!important;
+    }
+    .apply__text {
+        font-size: 12px!important;
+        text-align: center;
+    }
+    .bg--opacity {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: gray!important;
+        opacity: 1!important;
+        z-index: -50;
+    }
+
+
+
+    /*----------- FAG -----------*/
+
+    .fag__text {
+        text-align: justify;
+    }
+
+
+
+    /*----------- Contact -----------*/
+
+    .contact {
+        width: 80%;
+        margin: auto;
+    }
+
+
+
+    /*----------- About Us -----------*/
+
+    .about-us__text, .title--icon {
+        text-align: center;
+    }
+
+
+
+    /*----------- Footer -----------*/
+
+    .footer__img {
+        width: 80%!important;
+        margin: auto;
+    }
+    .footer__img img {
+        width: 100%!important;
+        height: auto!important;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*----------- Prefix -----------*/
+
+    .section__content {
+        font-size: 15px!important;
+    }
+
+
+
+    /*----------- Home -----------*/
+
+    .poster__title {
+        position: absolute;
+        top: -230%;
+        left: 0;
+        text-align: center;
+    }
+
+
+
+    /*----------- Logo -----------*/
+
+    .logo__img img {
+        width: 80%!important;
+        margin-left: 10%;
+    }
+
+
+
+    /*----------- Reviews -----------*/
+
+    .reviews__title {
+        font-size: 22px!important;
+    }
+    
+
+
+    /*----------- Services -----------*/
+
+    .services__title {
+        font-size: 40px;
+    }
+    .services__text {
+        font-size: 18px!important;
+    }
+
+
+
+    /*----------- Apply -----------*/
+
+    .apply__video iframe {
+        top: -120%!important;
+    }
+    .apply .introduce__title {
+        font-size: 18px!important;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*----------- Prefix -----------*/
+
+    .section__box-content {
+        width: 100%!important;
+    }
+
+
+
+    /*----------- Advertisement -----------*/
+    
+    .ad__items .title p {
+        font-size: 12px!important;
+    }
+
+
+
+    /*----------- Logo -----------*/
+
+    .logo__img .img1, .logo__img .img2 {
+        width: 75%!important;
+    }
+
+
+
+    /*----------- Introduce -----------*/
+
+    .introduce__title {
+        font-size: 20px!important;
+    }
+
+
+
+    /*----------- Services -----------*/
+
+    .services__title {
+        font-size: 30px!important;
+    }
+    .services__text {
+        font-size: 25px!important;
+    }
+
+
+
+    /*----------- Why Choose Cleanaa -----------*/
+
+    .cleanaa__title {
+        font-size: 23px!important;
+    }
+
+
+
+    /*----------- FAG -----------*/
+
+    .fag .reviews__title {
+        font-size: 25px;
+    }
+
+
+
+    /*----------- Apply -----------*/
+
+    .apply__text {
+        font-size: 15px!important;
+    }
+    .apply__video iframe {
+        top: -100%!important;
+    }
+
+
+
+    /*----------- About Us  -----------*/
+
+    .about-us__text {
+        font-size: 12px!important;
+    }
+
+
+
+    /*----------- Footer -----------*/
+
+    .footer--icon img {
+        width: 60%;
+        height: auto;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /*----------- Apply -----------*/
+
+    .apply__text {
+        font-size: 18px!important;
+    }
+
+
+
+    /*----------- Services -----------*/
+
+    .services__title {
+        font-size: 20px!important;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 991.98px) {
+
+    /*----------- Services -----------*/
+
+    .product__reponsive {
+        display: flex;
+        flex-direction: column-reverse!important;
+    }
+    .services__title {
+        text-align: center;
+    }
+
+
+
+    /*----------- Home -----------*/
+
+    .poster__title {
+        position: absolute;
+        top: -185%;
+        left: 0;
+        text-align: center;
+    }
+
+
+
+    /*----------- FAG -----------*/
+
+    .fag__text {
+        text-align: justify;
+    }
+}
+
+
+@media (min-width: 992px) {
+    /*----------- Prefix -----------*/
+    .ad__subtitle {
+        width: 75%!important;
+        margin: auto;
+    }
+}
+
+
+@media (max-width: 767.98px) {
+
+    /*----------- Why Choose Cleanaa -----------*/
+    .cleanaa__reponsive {
+        display: flex;
+        flex-direction: column-reverse!important;
+    }
+}
